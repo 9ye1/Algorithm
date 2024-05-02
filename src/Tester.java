@@ -12,8 +12,9 @@ public class Tester {
 
         //
         long afterTime = System.currentTimeMillis();
-        long fTnano = System.nanoTime();
         long secDiffTime = afterTime - beforeTime;
+
+        long fTnano = System.nanoTime();
         long eTnano = fTnano - bTnano;
 
         System.out.println("시간차이(s) : "+secDiffTime/1000+"."+secDiffTime%1000+"초");
