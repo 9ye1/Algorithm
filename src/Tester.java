@@ -6,7 +6,10 @@ public class Tester {
         //
 
 
-
+        int[] arr = new int[5];
+        System.out.println(arr.length);
+        String st = "fsdgfdg";
+        System.out.println(st.length());
 
 
 

@@ -5,9 +5,6 @@ public class Prim {
     static int prim(){
         int cost = 0; // 최소 비용 변수
 
-
-
-
         return cost;
     }
     public static void main(String args) {
