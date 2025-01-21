@@ -2,7 +2,7 @@ package Beakjoon_2025;
 
 // DATE : 2025.01.20
 // WRITER : 구예원
-// CONTENT : 그래프 이론
+// CONTENT : 그래프 이론 - bfs & queue
 
 import java.io.BufferedReader;
 import java.io.IOException;
