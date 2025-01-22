@@ -43,7 +43,7 @@ public class beakjoon_1012 {
                 bat[b][a] = 1;
             }
 
-
+            //탐색 시작
             for(int a=0; a<n; a++){
                 for(int b=0; b<m; b++){
                     if(bat[a][b] == 1&&!visit[a][b]){
