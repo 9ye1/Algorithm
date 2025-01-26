@@ -15,3 +15,7 @@
 Algorithm : Kruskal, UnionFind, DFS, Quick Sort, Merge Sort등 알고리즘 구현 <br>
 Beakjoon_2023, Beakjoon_2024, Beakjoon_2025 : 각각 해당년도에 푼 백준 문제  <br>
 Datastructure : 자료구조 수업시간에 구현한 Heap, Stack, Binary Search Tree 등 <br>
+<br>
+
+🎯Goal <br>
+매주 최소 3개의 문제 풀이 추가 
