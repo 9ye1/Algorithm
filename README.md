@@ -2,5 +2,17 @@
 
 ## 📚 Overview
 이 레포지토리는 **백준(BOJ)**, **프로그래머스(Programmers)** 등에서 해결한 알고리즘 문제 풀이와 대학 수업 시간에 구현한 자료구조 및 알고리즘 코드를 정리한 공간입니다.  
-- **목적**: 알고리즘 학습 및 문제 해결 과정을 체계적으로 정리하고, 필요 시 참고할 수 있는 자료로 활용하기 위해 작성되었습니다.  
-- **대상**: 저의 학습 기록을 공유하며, 다른 개발자/학생들에게도 도움이 되기를 희망합니다.
+- **목적**: 알고리즘 학습 및 문제 해결 과정을 체계적으로 기록
+
+📈 Learning Progress
+백준 문제 풀이
+현재까지 해결한 문제: 104 문제
+목표: 매주 최소 3개의 문제 풀이 추가
+프로그래머스 문제 풀이
+Level 1 완료: XX%
+Level 2 완료: XX%
+
+📄 Contents
+Algorithm : Kruskal, UnionFind, DFS, Quick Sort, Merge Sort등 알고리즘 구현
+Beakjoon_2023, Beakjoon_2024, Beakjoon_2025 : 각각 해당년도에 푼 백준 문제 
+Datastructure : 자료구조 수업시간에 구현한 Heap, Stack, Binary Search Tree 등
