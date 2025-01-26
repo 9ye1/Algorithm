@@ -8,8 +8,7 @@
 📈 Learning Progress <br>
 백준에서 해결한 문제: 104 문제 <br>
 프로그래머스에서 해결한 문제 : 24 문제 <br>
-목표: 매주 최소 3개의 문제 풀이 추가 <br>
- <br>
+<br>
 
 📄 Contents <br>
 Algorithm : Kruskal, UnionFind, DFS, Quick Sort, Merge Sort등 알고리즘 구현 <br>
